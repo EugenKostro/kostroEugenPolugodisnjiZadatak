@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\bin\Debug\kostroEugenPolugodisnjiZadatak.exe.config
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\bin\Debug\kostroEugenPolugodisnjiZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\bin\Debug\kostroEugenPolugodisnjiZadatak.pdb
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.exe
+C:\Users\kostr\source\repos\kostroEugenPolugodisnjiZadatak\kostroEugenPolugodisnjiZadatak\obj\Debug\kostroEugenPolugodisnjiZadatak.pdb
